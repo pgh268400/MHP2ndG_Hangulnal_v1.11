@@ -1,0 +1,90 @@
+{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\*\generator Msftedit 5.41.15.1512;}\viewkind4\uc1\pard\nowidctlpar\qc\b\f0\fs28\par
+TEAM HANGULNAL\'ae MONSTER HUNTER PORTABLE 2ND G KOREAN LOCALIZE PATCH 1.1 READ ME\b0\par
+\pard\nowidctlpar\fs20  \b\par
+\pard\b0\par
+\par
+\lang1042\f1\fs18\'ba\'bb\lang1033\f0  \lang1042\f1\'c6\'d0\'c4\'a1\'b4\'c2\lang1033\f0  \lang1042\f1\'b8\'f3\'bd\'ba\'c5\'cd\'c7\'e5\'c5\'cd\lang1033\f0  \lang1042\f1\'c6\'f7\'c5\'cd\'ba\'ed\lang1033\f0  2nd G\lang1042\f1\'c0\'c7\lang1033\f0  \lang1042\f1\'bd\'ac\'bf\'ee\lang1033\f0  \lang1042\f1\'c7\'d1\'b1\'db\lang1033\f0  \lang1042\f1\'c6\'d0\'c4\'a1\'b8\'a6\lang1033\f0  \lang1042\f1\'b8\'f1\'c0\'fb\'c0\'b8\'b7\'ce\lang1033\f0  \lang1042\f1\'c7\'d1\'b1\'db\'b3\'af\lang1033\f0  \lang1042\f1\'c6\'c0\'bf\'a1\'bc\'ad\lang1033\f0  \lang1042\f1\'c1\'a6\'c0\'db\lang1033\f0  \lang1042\f1\'b5\'c7\'be\'fa\'bd\'c0\'b4\'cf\'b4\'d9\lang1033\f0 . \lang1042\f1\'ba\'bb\lang1033\f0  \lang1042\f1\'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a5\'c0\'bb\lang1033\f0  \lang1042\f1\'c5\'eb\'c7\'d8\lang1033\f0  \lang1042\f1\'b8\'b8\'b5\'e9\'be\'ee\'c1\'f8\lang1033\f0  \lang1042\f1\'c6\'c4\'c0\'cf\'b5\'e9\'c0\'c7\lang1033\f0  \lang1042\f1\'b9\'e8\'c6\'f7\'b3\'aa\lang1033\f0  \lang1042\f1\'b0\'f8\'c0\'af\'b4\'c2\lang1033\f0  \lang1042\f1\'ba\'d2\'b9\'fd\'c0\'cc\'b9\'c7\'b7\'ce\lang1033\f0  \lang1042\f1\'c0\'fd\'b4\'eb\lang1033\f0  \lang1042\f1\'b1\'dd\'c7\'cf\'b8\'e7\lang1033\f0 , \par
+\lang1042\f1\'bc\'b3\'c4\'a1\'b9\'fd\'c0\'bb\lang1033\f0  \lang1042\f1\'c0\'d0\'c1\'f6\lang1033\f0  \lang1042\f1\'be\'ca\'b0\'ed\lang1033\f0  \lang1042\f1\'bd\'c7\'c7\'e0\'bd\'c3\lang1033\f0  \lang1042\f1\'b9\'ae\'c1\'a6\'b0\'a1\lang1033\f0  \lang1042\f1\'b9\'df\'bb\'fd\lang1033\f0  \lang1042\f1\'b5\'c9\lang1033\f0  \lang1042\f1\'bc\'f6\lang1033\f0  \lang1042\f1\'c0\'d6\'c0\'b8\'b9\'c7\'b7\'ce\lang1033\f0  \lang1042\f1\'c0\'df\lang1033\f0  \lang1042\f1\'c0\'d0\'b0\'ed\lang1033\f0  \lang1042\f1\'b5\'fb\'b6\'f3\'c7\'d8\lang1033\f0  \lang1042\f1\'c1\'d6\'bd\'c3\'b0\'ed\lang1033\f0 , \lang1042\f1\'c0\'cc\lang1033\f0  \lang1042\f1\'c6\'d0\'c4\'a1\'c0\'c7\lang1033\f0  \lang1042\f1\'ba\'bb\'c0\'ce\lang1033\f0  \lang1042\f1\'b0\'e1\'c1\'a4\'bf\'a1\lang1033\f0  \lang1042\f1\'b5\'fb\'b8\'a5\lang1033\f0  \lang1042\f1\'bb\'e7\'bf\'eb\'c0\'b8\'b7\'ce\lang1033\f0  \lang1042\f1\'c0\'ce\'c7\'d8\lang1033\f0  \lang1042\f1\'b9\'df\'bb\'fd\'c7\'cf\'b4\'c2\lang1033\f0  \lang1042\f1\'be\'ee\'b6\'b0\'c7\'d1\lang1033\f0  \lang1042\f1\'b9\'ae\'c1\'a6\'b5\'b5\lang1033\f0  \lang1042\f1\'c7\'d1\'b1\'db\'b3\'af\lang1033\f0  \lang1042\f1\'c6\'c0\'c0\'ba\lang1033\f0  \lang1042\f1\'c3\'a5\'c0\'d3\'c1\'f6\'c1\'f6\lang1033\f0  \lang1042\f1\'be\'ca\'bd\'c0\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+\lang1042\f1\'b1\'d7\'b8\'ae\'b0\'ed\lang1033\f0   \lang1042\f1\'c7\'d1\'b1\'db\'b3\'af\lang1033\f0  \lang1042\f1\'c6\'c0\'c0\'ba\lang1033\f0  \lang1042\f1\'ba\'bb\lang1033\f0  \lang1042\f1\'c6\'c4\'c0\'cf\'c0\'c7\lang1033\f0  \lang1042\f1\'be\'ee\'b6\'b0\'c7\'d1\lang1033\f0  \lang1042\f1\'bb\'f3\'be\'f7\'c0\'fb\lang1033\f0  \lang1042\f1\'c0\'cc\'bf\'eb\'b5\'b5\lang1033\f0  \lang1042\f1\'b5\'bf\'c0\'c7\'c7\'cf\'c1\'f6\lang1033\f0  \lang1042\f1\'be\'ca\'be\'d2\'c0\'b8\'b8\'e7\lang1033\f0 , \lang1042\f1\'be\'ee\'b6\'b2\lang1033\f0  \lang1042\f1\'b4\'dc\'c3\'bc\'b3\'aa\lang1033\f0  \lang1042\f1\'c4\'bf\'b9\'c2\'b4\'cf\'c6\'bc\'bf\'a1\'b5\'b5\lang1033\f0  \lang1042\f1\'bc\'d3\'c7\'d8\'c0\'d6\'c1\'f6\lang1033\f0  \lang1042\f1\'be\'ca\'c0\'b8\'b8\'e7\lang1033\f0 , \lang1042\f1\'c0\'af\'c0\'fa\lang1033\f0  \lang1042\f1\'bf\'a9\'b7\'af\'ba\'d0\'b5\'e9\'c0\'cc\lang1033\f0  \lang1042\f1\'ba\'bb\lang1033\f0  \lang1042\f1\'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a5\'c0\'bb\lang1033\f0  \lang1042\f1\'c5\'eb\'c7\'d8\lang1033\f0  \lang1042\f1\'b8\'b8\'b5\'e9\'be\'ee\'c1\'f8\lang1033\f0  \lang1042\f1\'c6\'c4\'c0\'cf\'c0\'c7\lang1033\f0  \lang1042\f1\'b9\'e8\'c6\'f7\'b3\'aa\lang1033\f0  \lang1042\f1\'b0\'f8\'c0\'af\'b8\'a6\lang1033\f0  \lang1042\f1\'b1\'dd\'c7\'d8\lang1033\f0  \lang1042\f1\'c1\'d6\'bd\'c3\'b1\'e6\lang1033\f0  \lang1042\f1\'b9\'d9\'b6\'f8\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+\par
+\par
+\par
+\par
+\lang1042\ul\b\f1\'c6\'d0\'c4\'a1\lang1033\f0  \lang1042\f1\'b9\'e6\'b9\'fd\lang1033\f0 :\ulnone\b0   \lang1042\f1\'b8\'f3\'bd\'ba\'c5\'cd\'c7\'e5\'c5\'cd\lang1033\f0  \lang1042\f1\'c6\'f7\'c5\'cd\'ba\'ed\lang1033\f0  2nd G \lang1042\f1\'bf\'f8\'ba\'bb\lang1033\f0  ISO \lang1042\f1\'c0\'cc\'b9\'cc\'c1\'f6\lang1033\f0  \lang1042\f1\'c6\'c4\'c0\'cf\'c0\'cc\lang1033\f0  \lang1042\f1\'c7\'ca\'bf\'e4\'c7\'d5\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+\par
+\lang1042\f1\'b8\'f3\'bd\'ba\'c5\'cd\'c7\'e5\'c5\'cd\lang1033\f0  \lang1042\f1\'c6\'f7\'c5\'cd\'ba\'ed\lang1033\f0  2nd G \lang1042\f1\'c7\'d1\'b1\'db\'c6\'d0\'c4\'a1\lang1033\f0  v 1.1 \lang1042\f1\'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a5\lang1033\f0 (MHP2G_Hangulnal.exe)\lang1042\f1\'c0\'ba\lang1033\f0  C#\lang1042\f1\'c0\'b8\'b7\'ce\lang1033\f0  \lang1042\f1\'c2\'a5\'bf\'a9\'c1\'ae\lang1033\f0  \lang1042\f1\'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+\lang1042\f1\'c0\'cc\lang1033\f0  \lang1042\f1\'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a5\'c0\'bb\lang1033\f0  \lang1042\f1\'bb\'e7\'bf\'eb\'c7\'cf\'b1\'e2\lang1033\f0  \lang1042\f1\'c0\'a7\'c7\'d8\'bc\'ad\'b4\'c2\lang1033\f0  Microsoft .NET Framework 2.0\lang1042\f1\'c0\'cc\lang1033\f0  \lang1042\f1\'c7\'ca\'bf\'e4\'c7\'d5\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+\lang1042\f1\par
+\lang1033\f0 Microsoft .NET Framework 2.0\lang1042\f1\'c0\'ba \par
+\lang1033\f0 32 Bit : http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5&DisplayLang=ko\par
+64 Bit : http://www.microsoft.com/downloads/details.aspx?familyid=B44A0000-ACF8-4FA1-AFFB-40E78D788B00&displaylang=ko\par
+\lang1042\f1\par
+\'b4\'d9\'c0\'bd \'bb\'e7\'c0\'cc\'c6\'ae\'b8\'a6 \'c5\'eb\'c7\'d8 \'b4\'d9\'bf\'ee\'b7\'ce\'b5\'e5 \'b9\'de\'c0\'bb \'bc\'f6 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9.\par
+\lang1033\f0\par
+ \par
+Microsoft .NET Framework 2.0\lang1042\f1\'c0\'cc\lang1033\f0  \lang1042\f1\'bc\'b3\'c4\'a1\lang1033\f0  \lang1042\f1\'b5\'c7\'be\'fa\'b4\'d9\'b8\'e9\lang1033\f0  jpn0.pgf \lang1042\f1\'bf\'cd\lang1033\f0  kr0.pgf \lang1042\f1\'b8\'a6\lang1033\f0  \lang1042\f1\'c6\'d0\'c4\'a1\lang1033\f0  \lang1042\f1\'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a5\'c0\'cc\lang1033\f0  \lang1042\f1\'c0\'d6\'b4\'c2\lang1033\f0  \lang1042\f1\'c6\'fa\'b4\'f5\'bf\'a1\lang1033\f0  \lang1042\f1\'b0\'b0\'c0\'cc\lang1033\f0  \lang1042\f1\'b3\'d6\'bd\'c0\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+ \par
+MHP2G_Hangulnal.exe\lang1042\f1\'b8\'a6\lang1033\f0  \lang1042\f1\'bd\'c7\'c7\'e0\'c7\'cf\'b8\'e9\lang1033\f0  \lang1042\f1\'b5\'cb\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+\par
+\par
+\par
+\lang1042\ul\b\f1\'c7\'d1\'b1\'db\lang1033\f0  \lang1042\f1\'c6\'d0\'c4\'a1\lang1033\f0  \lang1042\f1\'b9\'e6\'b9\'fd\lang1033\f0  \lang1042\f1\'bc\'b3\'b8\'ed\lang1033\f0 :\ulnone\b0   \lang1042\f1\'c7\'d1\'b1\'db\'b3\'af\lang1033\f0  \lang1042\f1\'c6\'c0\lang1033\f0  \lang1042\f1\'b8\'f3\'bd\'ba\'c5\'cd\'c7\'e5\'c5\'cd\lang1033\f0  \lang1042\f1\'c6\'f7\'c5\'cd\'ba\'ed\lang1033\f0  2nd G \lang1042\f1\'c7\'d1\'b1\'db\'c6\'d0\'c4\'a1\'b4\'c2\lang1033\f0  2\lang1042\f1\'c1\'be\'b7\'f9\'c0\'c7\lang1033\f0  \lang1042\f1\'c6\'d0\'c4\'a1\'b0\'a1\lang1033\f0  \lang1042\f1\'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+(\lang1042\f1\'c6\'d0\'c4\'a1\lang1033\f0  TYPE 1\lang1042\f1\'c0\'ba\lang1033\f0  \lang1042\f1\'c6\'d0\'c4\'a1\lang1033\f0  \lang1042\f1\'c0\'db\'be\'f7\lang1033\f0  \lang1042\f1\'c8\'c4\lang1033\f0  \lang1042\f1\'bb\'fd\'bc\'ba\'b5\'c8\lang1033\f0  \lang1042\f1\'c6\'f9\'c6\'ae\'b8\'a6\lang1033\f0  PSP\lang1042\f1\'bf\'a1\lang1033\f0  \lang1042\f1\'b3\'d6\'b4\'c2\lang1033\f0  \lang1042\f1\'c0\'db\'be\'f7\'c0\'cc\lang1033\f0  \lang1042\f1\'c7\'ca\'bf\'e4\'c7\'d5\'b4\'cf\'b4\'d9\lang1033\f0 .)\par
+ \par
+ \par
+ A. \lang1042\f1\'c6\'d0\'c4\'a1\lang1033\f0  TYPE1\par
+    ISO\lang1042\f1\'bf\'a1\lang1033\f0  \lang1042\f1\'c5\'d8\'bd\'ba\'c6\'ae\lang1033\f0  \lang1042\f1\'c6\'d0\'c4\'a1\lang1033\f0 , \lang1042\f1\'c6\'f9\'c6\'ae\lang1033\f0  \lang1042\f1\'bb\'fd\'bc\'ba\'c7\'cf\'b4\'c2\lang1033\f0  \lang1042\f1\'b1\'e2\'c1\'b8\lang1033\f0  \lang1042\f1\'b9\'e6\'bd\'c4\'c0\'c7\lang1033\f0  \lang1042\f1\'c6\'d0\'c4\'a1\lang1033\f0  \lang1042\f1\'c0\'d4\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+ \par
+    -\lang1042\f1\'c6\'d0\'c4\'a1\'b9\'e6\'b9\'fd\lang1033\f0 -\par
+     1. \lang1042\f1\'bf\'f8\'ba\'bb\lang1033\f0  \lang1042\f1\'c6\'c4\'c0\'cf\lang1033\f0  \lang1042\f1\'c3\'a3\'b1\'e2\lang1033\f0  \lang1042\f1\'b9\'f6\'c6\'b0\'c0\'bb\lang1033\f0  \lang1042\f1\'b4\'ad\'b7\'af\lang1033\f0  \lang1042\f1\'b8\'f3\'bd\'ba\'c5\'cd\'c7\'e5\'c5\'cd\lang1033\f0  \lang1042\f1\'c6\'f7\'c5\'cd\'ba\'ed\lang1033\f0  2nd G \lang1042\f1\'bf\'f8\'ba\'bb\lang1033\f0  \lang1042\f1\'c0\'cc\'b9\'cc\'c1\'f6\lang1033\f0  \lang1042\f1\'c6\'c4\'c0\'cf\'c0\'bb\lang1033\f0  \lang1042\f1\'ba\'d2\'b7\'af\'bf\'c9\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+     2. \lang1042\f1\'c6\'d0\'c4\'a1\lang1033\f0  \lang1042\f1\'bd\'c3\'c0\'db\lang1033\f0  \lang1042\f1\'b9\'f6\'c6\'b0\'c0\'bb\lang1033\f0  \lang1042\f1\'b4\'ad\'b7\'af\lang1033\f0  \lang1042\f1\'c6\'d0\'c4\'a1\'b8\'a6\lang1033\f0  \lang1042\f1\'c7\'d5\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+     3. \lang1042\f1\'c6\'d0\'c4\'a1\lang1033\f0  \lang1042\f1\'c8\'c4\lang1033\f0  \lang1042\f1\'c6\'fa\'b4\'f5\'bf\'a1\lang1033\f0  \lang1042\f1\'bb\'fd\'bc\'ba\'b5\'c8\lang1033\f0  \lang1042\f1\'c6\'f9\'c6\'ae\lang1033\f0  _jpg0.pgf \lang1042\f1\'b8\'a6\lang1033\f0  jpg0.pgf \lang1042\f1\'b7\'ce\lang1033\f0  \lang1042\f1\'c6\'c4\'c0\'cf\'b8\'ed\'c0\'bb\lang1033\f0  \lang1042\f1\'b9\'d9\'b2\'db\lang1033\f0  \lang1042\f1\'c8\'c4\lang1033\f0  PSP\lang1042\f1\'bf\'a1\lang1033\f0  \lang1042\f1\'b3\'d6\'bd\'c0\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+ \par
+ \par
+ B. \lang1042\f1\'c6\'d0\'c4\'a1\lang1033\f0  TYPE 2\par
+    ISO\lang1042\f1\'bf\'a1\lang1033\f0  \lang1042\f1\'c5\'d8\'bd\'ba\'c6\'ae\lang1033\f0  \lang1042\f1\'c6\'d0\'c4\'a1\lang1033\f0 , \lang1042\f1\'c6\'f9\'c6\'ae\'b5\'b5\lang1033\f0  ISO\lang1042\f1\'bf\'a1\lang1033\f0  \lang1042\f1\'c6\'d0\'c4\'a1\'c7\'d8\'bc\'ad\lang1033\f0  \lang1042\f1\'b3\'d6\'b4\'c2\lang1033\f0  \lang1042\f1\'bb\'f5\'b7\'ce\'bf\'ee\lang1033\f0  \lang1042\f1\'b9\'e6\'bd\'c4\lang1033\f0  \lang1042\f1\'c0\'d4\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+    PSP\lang1042\f1\'c0\'c7\lang1033\f0  \lang1042\f1\'c6\'f9\'c6\'ae\lang1033\f0  \lang1042\f1\'b1\'b3\'c3\'bc\lang1033\f0  \lang1042\f1\'c0\'db\'be\'f7\'c0\'cc\lang1033\f0  \lang1042\f1\'c7\'ca\'bf\'e4\lang1033\f0  \lang1042\f1\'be\'f8\'bd\'c0\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+ \par
+    -\lang1042\f1\'c6\'d0\'c4\'a1\'b9\'e6\'b9\'fd\lang1033\f0 -\par
+     1. \lang1042\f1\'bf\'f8\'ba\'bb\lang1033\f0  \lang1042\f1\'c6\'c4\'c0\'cf\lang1033\f0  \lang1042\f1\'c3\'a3\'b1\'e2\lang1033\f0  \lang1042\f1\'b9\'f6\'c6\'b0\'c0\'bb\lang1033\f0  \lang1042\f1\'b4\'ad\'b7\'af\lang1033\f0  \lang1042\f1\'b8\'f3\'bd\'ba\'c5\'cd\'c7\'e5\'c5\'cd\lang1033\f0  \lang1042\f1\'c6\'f7\'c5\'cd\'ba\'ed\lang1033\f0  2nd G \lang1042\f1\'bf\'f8\'ba\'bb\lang1033\f0  \lang1042\f1\'c0\'cc\'b9\'cc\'c1\'f6\lang1033\f0  \lang1042\f1\'c6\'c4\'c0\'cf\'c0\'bb\lang1033\f0  \lang1042\f1\'ba\'d2\'b7\'af\'bf\'c9\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+     2. \lang1042\f1\'c6\'d0\'c4\'a1\lang1033\f0  \lang1042\f1\'bd\'c3\'c0\'db\lang1033\f0  \lang1042\f1\'b9\'f6\'c6\'b0\'c0\'bb\lang1033\f0  \lang1042\f1\'b4\'ad\'b7\'af\lang1033\f0  \lang1042\f1\'c6\'d0\'c4\'a1\'b8\'a6\lang1033\f0  \lang1042\f1\'c7\'d5\'b4\'cf\'b4\'d9\lang1033\f0 .\par
+\par
+\par
+ \par
+\lang1042\ul\b\f1\'c7\'d1\'b1\'db\'b3\'af\lang1033\f0  \lang1042\f1\'c6\'c0\lang1033\f0  \lang1042\f1\'bf\'ac\'c7\'f5\lang1033\f0 :\ulnone\b0\par
+ \par
+ \par
+ 2007\lang1042\f1\'b3\'e2\lang1033\f0\par
+ \par
+\lang1042\f1\'a1\'a1\lang1033\f0 3\lang1042\f1\'bf\'f9\lang1033\f0  25\lang1042\f1\'c0\'cf\lang1033\f0      PSP \lang1042\f1\'c0\'fc\'b9\'ae\lang1033\f0  \lang1042\f1\'b7\'ce\'c4\'c3\'b6\'f3\'c0\'cc\'c2\'a1\'c6\'c0\lang1033\f0  "\lang1042\f1\'c7\'d1\'b1\'db\'b3\'af\lang1033\f0 " \lang1042\f1\'b0\'e1\'bc\'ba\lang1033\f0\par
+\lang1042\f1\'a1\'a1\lang1033\f0 4\lang1042\f1\'bf\'f9\lang1033\f0  01\lang1042\f1\'c0\'cf\lang1033\f0      "\lang1042\f1\'b8\'f3\'bd\'ba\'c5\'cd\'c7\'e5\'c5\'cd\lang1033\f0  \lang1042\f1\'c6\'f7\'c5\'cd\'ba\'ed\lang1033\f0  2nd" \lang1042\f1\'c7\'c1\'b7\'ce\'c1\'a7\'c6\'ae\lang1033\f0  \lang1042\f1\'bd\'c3\'c0\'db\lang1033\f0\par
+\lang1042\f1\'a1\'a1\lang1033\f0 6\lang1042\f1\'bf\'f9\lang1033\f0  10\lang1042\f1\'c0\'cf\lang1033\f0      "\lang1042\f1\'b8\'f3\'bd\'ba\'c5\'cd\'c7\'e5\'c5\'cd\lang1033\f0  \lang1042\f1\'c6\'f7\'c5\'cd\'ba\'ed\lang1033\f0  2nd" \lang1042\f1\'c7\'c1\'b7\'ce\'c1\'a7\'c6\'ae\lang1033\f0  \lang1042\f1\'b0\'f8\'b0\'b3\lang1033\f0\par
+\lang1042\f1\'a1\'a1\lang1033\f0 7\lang1042\f1\'bf\'f9\lang1033\f0  01\lang1042\f1\'c0\'cf\lang1033\f0      "\lang1042\f1\'c0\'dc\'b4\'d9\'b8\'a3\'c5\'a9\lang1033\f0 " \lang1042\f1\'c7\'c1\'b7\'ce\'c1\'a7\'c6\'ae\lang1033\f0  \lang1042\f1\'bd\'c3\'c0\'db\lang1033\f0\par
+ \par
+ 2008\lang1042\f1\'b3\'e2\lang1033\f0\par
+ \par
+\lang1042\f1\'a1\'a1\lang1033\f0 4\lang1042\f1\'bf\'f9\lang1033\f0  01\lang1042\f1\'c0\'cf\lang1033\f0       "\lang1042\f1\'c0\'dc\'b4\'d9\'b8\'a3\'c5\'a9\lang1033\f0 " \lang1042\f1\'c7\'c1\'b7\'ce\'c1\'a7\'c6\'ae\lang1033\f0  \lang1042\f1\'b0\'f8\'b0\'b3\lang1033\f0 ,\par
+\lang1042\f1\'a1\'a1\lang1033\f0 4\lang1042\f1\'bf\'f9\lang1033\f0  02\lang1042\f1\'c0\'cf\lang1033\f0       "\lang1042\f1\'b8\'f3\'bd\'ba\'c5\'cd\'c7\'e5\'c5\'cd\lang1033\f0  \lang1042\f1\'c6\'f7\'c5\'cd\'ba\'ed\lang1033\f0  2nd G" \lang1042\f1\'c7\'c1\'b7\'ce\'c1\'a7\'c6\'ae\lang1033\f0  \lang1042\f1\'bd\'c3\'c0\'db\lang1033\f0\par
+\lang1042\f1\'a1\'a1\lang1033\f0 5\lang1042\f1\'bf\'f9\lang1033\f0  01\lang1042\f1\'c0\'cf\lang1033\f0       "\lang1042\f1\'b8\'f3\'bd\'ba\'c5\'cd\'c7\'e5\'c5\'cd\lang1033\f0  \lang1042\f1\'c6\'f7\'c5\'cd\'ba\'ed\lang1033\f0  2nd G" \lang1042\f1\'c7\'c1\'b7\'ce\'c1\'a7\'c6\'ae\lang1033\f0  \lang1042\f1\'b0\'f8\'b0\'b3\par
+  10\'bf\'f9 13\'c0\'cf\lang1033\f0       "\lang1042\f1\'bb\'e7\'c0\'cf\'b7\'b1\'c6\'ae \'c8\'fa : \'c1\'a6\'b7\'ce" \'c7\'c1\'b7\'ce\'c1\'a7\'c6\'ae \'bd\'c3\'c0\'db\par
+  11\'bf\'f9 13\'c0\'cf\lang1033\f0       "\lang1042\f1\'bb\'e7\'c0\'cf\'b7\'b1\'c6\'ae \'c8\'fa : \'c1\'a6\'b7\'ce" \'c7\'c1\'b7\'ce\'c1\'a7\'c6\'ae \'b0\'f8\'b0\'b3\par
+  11\'bf\'f9 14\'c0\'cf\lang1033\f0       "\lang1042\f1\'bb\'e7\'c0\'cf\'b7\'b1\'c6\'ae \'c8\'fa : \'bf\'c0\'b8\'ae\'c1\'f8" \'c7\'c1\'b7\'ce\'c1\'a7\'c6\'ae \'bd\'c3\'c0\'db\par
+  12\'bf\'f9 18\'c0\'cf\lang1033\f0       "\lang1042\f1\'bb\'e7\'c0\'cf\'b7\'b1\'c6\'ae \'c8\'fa : \'bf\'c0\'b8\'ae\'c1\'f8" \'c7\'c1\'b7\'ce\'c1\'a7\'c6\'ae \'b0\'f8\'b0\'b3\lang1033\f0\par
+ \par
+ \par
+\par
+\par
+\par
+\par
+\pard\nowidctlpar  ------------------------------------------------------------\par
+\par
+Copyright (c) 2007-2008 Team Hangulnal. All rights reserved.\par
+\par
+\pard\nowidctlpar\tx60 -------------------------------------------------------------\par
+\pard\nowidctlpar\par
+\pard 12/18/08\lang1042\f1\par
+ \par
+ \par
+}
+ 

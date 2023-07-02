@@ -1,0 +1,18 @@
+C:\Users\File\Desktop\Decom\MHP2G_Hangulnal\bin\Debug\MonsterHunter2G KorPatch.exe
+C:\Users\File\Desktop\Decom\MHP2G_Hangulnal\bin\Debug\MonsterHunter2G KorPatch.pdb
+C:\Users\File\Desktop\Decom\MHP2G_Hangulnal\obj\Debug\MHP2G_Hangulnal.csprojAssemblyReference.cache
+C:\Users\File\Desktop\Decom\MHP2G_Hangulnal\obj\Debug\hpdPatchMHP2G.Form1.resources
+C:\Users\File\Desktop\Decom\MHP2G_Hangulnal\obj\Debug\hpdPatchMHP2G.Properties.Resources.resources
+C:\Users\File\Desktop\Decom\MHP2G_Hangulnal\obj\Debug\MHP2G_Hangulnal.csproj.GenerateResource.cache
+C:\Users\File\Desktop\Decom\MHP2G_Hangulnal\obj\Debug\MHP2G_Hangulnal.csproj.CoreCompileInputs.cache
+C:\Users\File\Desktop\Decom\MHP2G_Hangulnal\obj\Debug\MonsterHunter2G KorPatch.exe
+C:\Users\File\Desktop\Decom\MHP2G_Hangulnal\obj\Debug\MonsterHunter2G KorPatch.pdb
+C:\Users\pgh26\Documents\2G 한글날 디컴파일\MHP2G_Hangulnal\bin\Debug\MonsterHunter2G KorPatch.exe
+C:\Users\pgh26\Documents\2G 한글날 디컴파일\MHP2G_Hangulnal\bin\Debug\MonsterHunter2G KorPatch.pdb
+C:\Users\pgh26\Documents\2G 한글날 디컴파일\MHP2G_Hangulnal\obj\Debug\MHP2G_Hangulnal.csproj.AssemblyReference.cache
+C:\Users\pgh26\Documents\2G 한글날 디컴파일\MHP2G_Hangulnal\obj\Debug\hpdPatchMHP2G.Form1.resources
+C:\Users\pgh26\Documents\2G 한글날 디컴파일\MHP2G_Hangulnal\obj\Debug\hpdPatchMHP2G.Properties.Resources.resources
+C:\Users\pgh26\Documents\2G 한글날 디컴파일\MHP2G_Hangulnal\obj\Debug\MHP2G_Hangulnal.csproj.GenerateResource.cache
+C:\Users\pgh26\Documents\2G 한글날 디컴파일\MHP2G_Hangulnal\obj\Debug\MHP2G_Hangulnal.csproj.CoreCompileInputs.cache
+C:\Users\pgh26\Documents\2G 한글날 디컴파일\MHP2G_Hangulnal\obj\Debug\MonsterHunter2G KorPatch.exe
+C:\Users\pgh26\Documents\2G 한글날 디컴파일\MHP2G_Hangulnal\obj\Debug\MonsterHunter2G KorPatch.pdb
