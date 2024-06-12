@@ -1,0 +1,9 @@
+C:\Users\pgh26\Desktop\MHP2ndG_Hangulnal_v1.11\MHP2G_Hangulnal Decompile Source\bin\Release\MonsterHunter2G KorPatch.exe
+C:\Users\pgh26\Desktop\MHP2ndG_Hangulnal_v1.11\MHP2G_Hangulnal Decompile Source\bin\Release\MonsterHunter2G KorPatch.pdb
+C:\Users\pgh26\Desktop\MHP2ndG_Hangulnal_v1.11\MHP2G_Hangulnal Decompile Source\obj\Release\MHP2G_Hangulnal.csproj.AssemblyReference.cache
+C:\Users\pgh26\Desktop\MHP2ndG_Hangulnal_v1.11\MHP2G_Hangulnal Decompile Source\obj\Release\hpdPatchMHP2G.Form1.resources
+C:\Users\pgh26\Desktop\MHP2ndG_Hangulnal_v1.11\MHP2G_Hangulnal Decompile Source\obj\Release\hpdPatchMHP2G.Properties.Resources.resources
+C:\Users\pgh26\Desktop\MHP2ndG_Hangulnal_v1.11\MHP2G_Hangulnal Decompile Source\obj\Release\MHP2G_Hangulnal.csproj.GenerateResource.cache
+C:\Users\pgh26\Desktop\MHP2ndG_Hangulnal_v1.11\MHP2G_Hangulnal Decompile Source\obj\Release\MHP2G_Hangulnal.csproj.CoreCompileInputs.cache
+C:\Users\pgh26\Desktop\MHP2ndG_Hangulnal_v1.11\MHP2G_Hangulnal Decompile Source\obj\Release\MonsterHunter2G KorPatch.exe
+C:\Users\pgh26\Desktop\MHP2ndG_Hangulnal_v1.11\MHP2G_Hangulnal Decompile Source\obj\Release\MonsterHunter2G KorPatch.pdb

@@ -2,14 +2,13 @@
 // Type: hpdPatchMHP2G.HPDData
 // Assembly: MonsterHunter2G KorPatch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 // MVID: E2D0E602-1310-4EBF-B2D7-D651B15B3CDC
-// Assembly location: E:\Game\PSP\MHP2ndG_Hangulnal_v1.11\MHP2G_Hangulnal.exe
 
 namespace hpdPatchMHP2G
 {
-  internal class HPDData
-  {
-    public byte[] fat1 = new byte[115]
+    internal class HPDData
     {
+        public byte[] fat1 = new byte[115]
+        {
       (byte) 0,
       (byte) 0,
       (byte) 0,
@@ -125,10 +124,10 @@ namespace hpdPatchMHP2G
       (byte) 85,
       (byte) 88,
       (byte) 65
-    };
-    public byte[] fat2 = new byte[70];
-    public byte[] oldfont = new byte[42688]
-    {
+        };
+        public byte[] fat2 = new byte[70];
+        public byte[] oldfont = new byte[42688]
+        {
       (byte) 127,
       (byte) 69,
       (byte) 76,
@@ -42817,9 +42816,9 @@ namespace hpdPatchMHP2G
       (byte) 1,
       (byte) 1,
       (byte) 0
-    };
-    public byte[] libfont = new byte[7098]
-    {
+        };
+        public byte[] libfont = new byte[7098]
+        {
       (byte) 127,
       (byte) 69,
       (byte) 76,
@@ -49918,6 +49917,6 @@ namespace hpdPatchMHP2G
       (byte) 98,
       (byte) 0,
       (byte) 0
-    };
-  }
+        };
+    }
 }
